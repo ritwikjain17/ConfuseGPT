@@ -1,0 +1,4 @@
+openai==1.22.0
+anthropic
+numpy
+matplotlib
